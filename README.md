@@ -6,6 +6,8 @@
 
 *   Updated HTML with semantic HTML elements
 
+*   Link to Deployed Site: (https://jnunez1229.github.io/Horiseon-Webpage-Refactored/)
+
 ### Screenshot
 
 ![Screenshot of website after having been refactored](Develop/assets/images/horiseon.homepage.refactored.png)
