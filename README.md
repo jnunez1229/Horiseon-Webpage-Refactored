@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![Screenshot of website after having been refactored](Develop/assets/images/horiseon.homepage.refactored.png)
+![Screenshot of website after having been refactored](assets/images/horiseon.homepage.refactored.png)
 
 ---
 © 2019 Horiseon Social Solution Services, Inc.
